@@ -6,7 +6,7 @@ I recently graduated from UCLA as:
 
 I'm super passionate about all things engineering ✈ and machine learning 🧠 - especially in the intersection of the two.  
 
-🛠 **My Languages**: Python, C++, MATLAB, HTML/CSS/JS
+🛠 **My Languages**: Python, C++, MATLAB, HTML/CSS/JS  
 🧰 **My Skills**: Machine Learning w/ PyTorch and skLearn, Generative AI w/ Huggingface Diffusers, EDA + Visualization w/ Pandas and Matplotlib  
 
 Some of my past **projects** include:
