@@ -16,11 +16,11 @@ Some of my past **projects** include:
 - Locating Urban Search and Rescue Robot 🤖 w/ Gradient Boosting Trees + IMU
 
 Currently, I'm:
-- 🌱 learning ... web development, drone flight programming
-- 🤔 looking for help with ... control systems, autonomous vehicles w/ ML
-- 🍙 craving ... dumplings, always craving dumplings
+- 🌱 learning ... *web development, drone flight programming*
+- 🤔 looking for help with ... *control systems, autonomous vehicles w/ ML*
+- 🍙 craving ... *dumplings, always craving dumplings*
 
-Catch me on [LinkedIn][https://www.linkedin.com/in/rogerwang00/]
+Catch me on [LinkedIn](https://www.linkedin.com/in/rogerwang00/)
 
 <!--
 **rogerwng/rogerwng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
