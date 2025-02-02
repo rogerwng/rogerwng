@@ -18,7 +18,6 @@ Some of my past **projects** include:
 Currently, I'm:
 - 🌱 learning ... *web development, drone flight programming*
 - 🤔 looking for help with ... *control systems, autonomous vehicles w/ ML*
-- 🍙 craving ... *dumplings, always craving dumplings*
 
 Catch me on [LinkedIn](https://www.linkedin.com/in/rogerwang00/)
 
