@@ -6,17 +6,19 @@ I recently graduated from UCLA as:
 
 I'm super passionate about all things engineering ✈ and machine learning 🧠 - especially in the intersection of the two.  
 
-🛠 **My Languages**: Python, C++, MATLAB, HTML/CSS/JS  
-🧰 **My Skills**: Machine Learning w/ PyTorch and skLearn, Generative AI w/ Huggingface Diffusers, EDA + Visualization w/ Pandas and Matplotlib  
+🛠 **My Languages**: Python, C++, C, MATLAB, HTML/CSS/JS  
+🧰 **My Skills**: Machine Learning w/ PyTorch and skLearn, Generative AI w/ Huggingface Diffusers, EDA + Visualization w/ Pandas and Matplotlib, Embedded Programming with STM32    
 
-Some of my past **projects** include:
+Some of my **projects** include:  
+- Comprehensive drone 🛸 build with custom avionics stack and flight firmware written in C
+- EDA, Classification, and Time Series Analysis of San Francisco 🌉 Police Reports since 2018
 - Generative data augmentation to boost classification of small cat 😹 species dataset
 - Top scoring MiniPlaces 🖼 classifier using ResNet + EfficientNet ensembles in my Deep Learning class @ UCLA
 - Kaggle competitions (Insurance Cross 📊 Selling + Used Car 🏎 Price)
 - Locating Urban Search and Rescue Robot 🤖 w/ Gradient Boosting Trees + IMU
 
 Currently, I'm:
-- 🌱 learning ... *web development, drone flight programming*
+- 🌱 learning ... *app development, drone flight programming*
 - 🤔 looking for help with ... *control systems, autonomous vehicles w/ ML*
 
 Catch me on [LinkedIn](https://www.linkedin.com/in/rogerwang00/)
