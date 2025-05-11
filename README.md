@@ -1,6 +1,8 @@
-## Hi there!! 👋
+## Hi there!! 👋 
 
-I recently graduated from UCLA as:
+I'm an incoming Master's of Computer Science Student @ GTech.
+
+I recently graduated from UCLA with:
 - B.S. Aerospace Engineering
 - Data Science Engineering minor
 
