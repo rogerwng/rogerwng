@@ -1,22 +1,21 @@
 ## Hi there!! 👋 
 
-I'm an incoming Master's of Computer Science Student @ GTech.
+I'm an embedded SWE @ Castelion, a hypersonics defense startup. I'm also a Master's of Computer Science Student @ GTech.
 
-I recently graduated from UCLA with:
+I graduated from UCLA with:
 - B.S. Aerospace Engineering
 - Data Science Engineering minor
 
 I'm super passionate about all things engineering ✈ and machine learning 🧠 - especially in the intersection of the two.  
 
 🛠 **My Languages**: Python, C++, C, MATLAB, HTML/CSS/JS  
-🧰 **My Skills**: Machine Learning w/ PyTorch and skLearn, Generative AI w/ Huggingface Diffusers, EDA + Visualization w/ Pandas and Matplotlib, Embedded Programming with STM32    
+🧰 **My Skills**: Embedded Software (STM32 F4/H7, ESP32), Flight SW Valiation (HITL/SIL), ML w/ PyTorch and skLearn, Gen AI w/ Huggingface Diffusers   
 
 Some of my **projects** include:  
 - Comprehensive drone 🛸 build with custom avionics stack and flight firmware written in C
 - EDA, Classification, and Time Series Analysis of San Francisco 🌉 Police Reports since 2018
 - Generative data augmentation to boost classification of small cat 😹 species dataset
 - Top scoring MiniPlaces 🖼 classifier using ResNet + EfficientNet ensembles in my Deep Learning class @ UCLA
-- Kaggle competitions (Insurance Cross 📊 Selling + Used Car 🏎 Price)
 - Locating Urban Search and Rescue Robot 🤖 w/ Gradient Boosting Trees + IMU
 
 Currently, I'm:
